@@ -46,7 +46,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="628" height="524" alt="Step 1b" src="https://github.com/user-attachments/assets/47d0db55-56de-4f6e-9585-54b210ba3571" />
 </p>
 <p>
   
@@ -63,3 +63,16 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <br />
 
+<p>
+<img width="319" height="523" alt="Step 1c" src="https://github.com/user-attachments/assets/e7981b6c-b212-4ec0-8730-9c7fcb2f874b" />
+</p>
+<p>
+  
+- On the next page
+    
+  - Double Check to make sure everything is to your liking.
+    
+  - Select “Create”.
+   
+</p>
+<br />
