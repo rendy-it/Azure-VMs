@@ -26,7 +26,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <h2>Steps in Creating Virtual Machines in Azure</h2>
 
 <p>
-<img width="755" height="991" alt="image" src="https://github.com/user-attachments/assets/bcd1e2db-0383-413f-820d-4a1ecb276984" />
+<img width="385" height="502" alt="image" src="https://github.com/user-attachments/assets/5a8182ea-b59e-48d8-9c86-afb9beec53d7" />
 
 </p>
 <p>
