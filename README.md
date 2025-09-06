@@ -26,7 +26,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <h2>Steps in Creating Virtual Machines in Azure</h2>
 <h2> << Step 1: Create a Resource Group >> </h2>
 <p>
-<img width="446" height="233" alt="Step 1" src="https://github.com/user-attachments/assets/eee29aa1-4629-4138-b151-0bc5c4eda1e5" />
+<img width="465" height="241" alt="Step 1" src="https://github.com/user-attachments/assets/6195e77c-076f-408e-8be6-7c8edfd42411" />
 </p>
 <p>
   
@@ -37,10 +37,11 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="543" height="396" alt="Step 1a" src="https://github.com/user-attachments/assets/957f27ad-3c2b-4754-8a76-9dddbb618df2" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+- On the next page, click on “Create”.
+  
 </p>
 <br />
 
