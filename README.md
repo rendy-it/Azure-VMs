@@ -80,7 +80,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <h2> << Step 2: Create a Windows 10 Virtual Machine within Azure >> </h2>
 
 <p>
-<img width="436" height="430" alt="Step 2" src="https://github.com/user-attachments/assets/fdc7a0e5-dbc2-4219-9fa7-dc818d739865" /> <img width="123" height="430" alt="Arrow-Pointing-Right" src="https://github.com/user-attachments/assets/1caf03f4-4e44-4e0d-9723-0c2a2e6826f6" /> <img width="283" height="430" alt="Step 2a" src="https://github.com/user-attachments/assets/240fcf46-aef5-4da9-aae0-95aca704f553" />
+<img width="366" height="430" alt="Step 2" src="https://github.com/user-attachments/assets/267b85c2-3469-4ae4-9987-fa30ca81901a" /> <img width="88" height="430" alt="Arrow-Pointing-Right" src="https://github.com/user-attachments/assets/45bfd18c-04b9-43ec-97eb-fee73f38c146" /> <img width="283" height="430" alt="Step 2a" src="https://github.com/user-attachments/assets/240fcf46-aef5-4da9-aae0-95aca704f553" />
 
 </p>
 <p>
