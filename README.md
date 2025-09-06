@@ -18,8 +18,8 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 
 <h2>Configuration Steps</h2>
 
--	Step 1: Create a Resource Group.
--	Step 2: Create a Windows 10 Virtual Machine within Azure. 
+-	Step 1: Create a Resource Group
+-	Step 2: Create a Windows 10 Virtual Machine within Azure
 -	Step 3: Create a Linux Virtual Machine within Azure 
   
 
@@ -50,7 +50,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <p>
   
-- On the next page
+- On the next page:
     
   - Select the subscription you prefer.
     
@@ -58,7 +58,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
     
   - Select a preferred region that is closest to you.
     
-  - Then select “Review + Create”
+  - Then select “Review + Create”.
 
 </p>
 <br />
@@ -68,7 +68,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <p>
   
-- On the next page
+- On the next page:
     
   - Double Check to make sure everything is to your liking.
     
