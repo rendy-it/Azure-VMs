@@ -94,28 +94,29 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <br />
 
 <p>
-<img width="543" height="396" alt="Step 1a" src="https://github.com/user-attachments/assets/957f27ad-3c2b-4754-8a76-9dddbb618df2" />
+<img width="580" height="701" alt="Step 2b" src="https://github.com/user-attachments/assets/4ba29e83-782a-4bd0-8d37-3d4a90663989" />
+
 <p>
   
-- On the next page, click on “Create”.
+- On the next page, select the resource group that we created in Step 1.
+  - Give the VM a name.
+  - Select a Zone
+  - Select “Windows 10 Pro” for the OS image.
+    - Click on “See all images” to search for it, if you can’t find it.
+  - And select at least 2 vcpus, with 8 or 16 gig memory
+    - Click on “See all sizes” to search for it, if you can’t find it.
+   
   
 </p>
 <br />
 
 <p>
-<img width="628" height="524" alt="Step 1b" src="https://github.com/user-attachments/assets/47d0db55-56de-4f6e-9585-54b210ba3571" />
+<img width="692" height="384" alt="Step 2c" src="https://github.com/user-attachments/assets/f7044866-727f-49ed-b3fe-de4ea2a3a487" />
+
 </p>
 <p>
   
-- On the next page:
-    
-  - Select the subscription you prefer.
-    
-  - Create your resource group name.
-    
-  - Select a preferred region that is closest to you.
-    
-  - Then select “Review + Create”.
+- Next, create a Username and Password.
 
 </p>
 <br />
