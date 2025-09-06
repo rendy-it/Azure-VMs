@@ -24,13 +24,15 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
   
 
 <h2>Steps in Creating Virtual Machines in Azure</h2>
-
+<h2> << Step 1: Create a Resource Group >> </h2>
 <p>
-<img width="385" height="502" alt="image" src="https://github.com/user-attachments/assets/5a8182ea-b59e-48d8-9c86-afb9beec53d7" />
-
+<img width="446" height="233" alt="Step 1" src="https://github.com/user-attachments/assets/eee29aa1-4629-4138-b151-0bc5c4eda1e5" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+- On the Azure home page search bar, type “Resource Group”. 
+- Then, select “Resource Groups” under Services.
+
 </p>
 <br />
 
