@@ -215,5 +215,49 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 
 </p>
 <br />
+<p>
+<img width="674" height="491" alt="Step 3a" src="https://github.com/user-attachments/assets/41b9416c-1ec1-4a42-bb96-1a6f57134131" />
+
+
+</p>
+<p>
+  
+- For the memory size, keep it the same as the Windows VM.
+- Next, check the “Password” box for “Authentication type”.
+- Next, create a Username and Password.
+
+
+</p>
+<br />
+<p>
+<img width="645" height="815" alt="Step 3b" src="https://github.com/user-attachments/assets/98b50ea7-43c9-4079-9b63-774136dfe81d" />
+
+</p>
+<p>
+  
+- Then go to the “Networking” tab
+- Make sure to select the same Virtual Network as the Windows VM.
+- Keep everything else default and select “Review + create”
+
+
+</p>
+<br />
+<p>
+<img width="445" height="442" alt="Step 3c" src="https://github.com/user-attachments/assets/fd7afc21-a6a9-4762-99ae-68bcd3c7d917" /> <img width="88" height="442" alt="Arrow-Pointing-Right for Step 3c" src="https://github.com/user-attachments/assets/4818d701-1d71-4125-ad02-8b2d8f4ad061" /> <img width="439" height="442" alt="Step 3c1" src="https://github.com/user-attachments/assets/e1d77209-a445-4591-a371-0794087ed0db" />
+
+
+
+
+</p>
+<p>
+  
+- On the next Page:
+  - Double Check to make sure everything is to your liking.
+  - Then select “Create”.
+
+
+
+</p>
+<br />
 
 
