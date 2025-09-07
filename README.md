@@ -274,7 +274,6 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <p>
 <img width="1409" height="685" alt="Step 3f" src="https://github.com/user-attachments/assets/52648836-e25e-47ae-a0b2-46df78c29910" />
 
-
 </p>
 <p>
   
@@ -282,10 +281,19 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 - There you will be able to see all that you have created so far.
   - A Windows 10 Virtual Machine.
   - A Linux Virtual Machine.
+
+</p>
+<br />
+<p>
+<img width="1360" height="405" alt="Step 3g" src="https://github.com/user-attachments/assets/841c623c-a846-4ae9-8778-3620105db576" />
+
+
+
+</p>
+<p>
+  
 - Also, make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
 - To conclude, we have successfully created both a Windows and Linux Virtual Machine inside of the Microsoft Azure cloud infrastructure.
-
-
 
 
 </p>
