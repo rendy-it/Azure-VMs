@@ -122,15 +122,17 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <br />
 
 <p>
-<img width="319" height="523" alt="Step 1c" src="https://github.com/user-attachments/assets/e7981b6c-b212-4ec0-8730-9c7fcb2f874b" />
+<img width="354" height="415" alt="Step 2d" src="https://github.com/user-attachments/assets/5fb0cf25-1254-451a-8e6d-9148449dd788" />
+
 </p>
 <p>
   
+- Next, go back up and click on the “Networking” tab.
 - On the next page:
-    
-  - Double Check to make sure everything is to your liking.
-    
-  - Select “Create”.
+  - Create a new name for the “Virtual network” box.
+  - You will need that same virtual network for the Linux Virtual machine.
+  - Everything else is set by default.
+
    
 </p>
 <br />
