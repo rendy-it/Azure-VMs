@@ -145,14 +145,28 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <br />
 <p>
-<img width="548" height="402" alt="Step 2e" src="https://github.com/user-attachments/assets/278ba11d-16f4-4902-aa64-c79d17cd1fe0" />
+<img width="518" height="213" alt="Step 2f" src="https://github.com/user-attachments/assets/3e1d9a16-318f-4dfb-b451-6b34fd4d274f" />
+</p>
+<p>
+
+- Go back to the “Basics” tab. 
+- Scroll to the bottom and check the Licensing checkbox to confirm.
+- Then select “Review + Create”.
+
+</p>
+<br />
+<p>
+<img width="342" height="266" alt="Step 2g" src="https://github.com/user-attachments/assets/c09bd670-8ead-4327-b532-1ff59a7bfc70" /> <img width="88" height="430" alt="Arrow-Pointing-Right" src="https://github.com/user-attachments/assets/59be8f7f-0b47-48d9-87d0-ced57595a915" /> <img width="336" height="266" alt="Step 2g1" src="https://github.com/user-attachments/assets/49586aa9-c625-45df-a11e-86d8f3955cb1" />
+
 
 
 </p>
 <p>
 
-- Go back to the “Basics” tab. 
-- Scroll to the bottom and select the Licensing checkbox to confirm.
-- Then select “Review + Create”.
+- On the next Page:
+  -	Double Check to make sure everything is to your liking.
+  -	Then select “Create”.
+
 
 </p>
+<br />
