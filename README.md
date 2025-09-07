@@ -158,8 +158,6 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <p>
 <img width="336" height="266" alt="Step 2g" src="https://github.com/user-attachments/assets/87223c89-d6b7-40e8-a7fd-63733f2aad11" /> <img width="88" height="266" alt="Arrow-Pointing-Right for Step 2g" src="https://github.com/user-attachments/assets/56f4a4a0-919b-4b9b-8fda-1c7de3a359ab" /> <img width="336" height="266" alt="Step 2g1" src="https://github.com/user-attachments/assets/49586aa9-c625-45df-a11e-86d8f3955cb1" />
 
-
-
 </p>
 <p>
 
@@ -170,3 +168,34 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 
 </p>
 <br />
+<p>
+<img width="394" height="357" alt="Step 2h" src="https://github.com/user-attachments/assets/c603d0c8-8b4f-433c-a8c3-b194cc23b401" /> 
+</p>
+<p>
+  
+- Deployment will take a couple of minutes to complete, so be patient.
+  
+</p>
+<br />
+<p>
+<img width="357" height="445" alt="Step 2i" src="https://github.com/user-attachments/assets/9c83be4a-7794-4e91-866f-5ac5eff89e82" />
+
+</p>
+<p>
+  
+- Once completed you can click on “Go to resource”. 
+  
+</p>
+<br />
+<p>
+<img width="906" height="555" alt="Step 2j" src="https://github.com/user-attachments/assets/6bcdbe06-270b-4f2e-9e41-58029cdb5857" />
+
+</p>
+<p>
+  
+- Then you will be able to see the VM that you just created with all the information.
+  
+</p>
+<br />
+
+
