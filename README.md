@@ -169,7 +169,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <br />
 <p>
-<img width="349" height="370" alt="Step 2h" src="https://github.com/user-attachments/assets/aff3ecd9-2639-4a03-918d-b86275aa8944" /> <img width="88" height="370" alt="Arrow-Pointing-Right for Step 2hi" src="https://github.com/user-attachments/assets/a8f85bc1-ca58-4448-8c42-273222e09343" /> <img width="344" height="370" alt="Step 2i" src="https://github.com/user-attachments/assets/23d6a757-ebb3-45a1-83d8-914cab48ab51" />
+<img width="349" height="370" alt="Step 2h" src="https://github.com/user-attachments/assets/aff3ecd9-2639-4a03-918d-b86275aa8944" /> <img width="88" height="370" alt="Arrow-Pointing-Right for Step 2hi" src="https://github.com/user-attachments/assets/b5bbeb1f-0059-4fc0-95fa-d12109050b76" /> <img width="344" height="370" alt="Step 2i" src="https://github.com/user-attachments/assets/23d6a757-ebb3-45a1-83d8-914cab48ab51" />
 
 
 
@@ -248,7 +248,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <br />
 <p>
-<img width="357" height="445" alt="Step 2i" src="https://github.com/user-attachments/assets/9c83be4a-7794-4e91-866f-5ac5eff89e82" />
+<img width="383" height="407" alt="Step 3d" src="https://github.com/user-attachments/assets/2ac1e6f2-5449-4bd3-bcdc-bb0ff0db0852" />
 
 </p>
 <p>
@@ -259,4 +259,11 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
   
 </p>
 <br />
+<p>
+<img width="1189" height="715" alt="Step 3e" src="https://github.com/user-attachments/assets/66fc8e83-ad65-4536-9f66-64000cf578d8" />
+
+</p>
+<p>
+  
+- Then you will be able to see the VM that you just created with all the information.
 
