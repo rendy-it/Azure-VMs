@@ -122,17 +122,37 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <br />
 
 <p>
-<img width="354" height="415" alt="Step 2d" src="https://github.com/user-attachments/assets/5fb0cf25-1254-451a-8e6d-9148449dd788" />
+<img width="355" height="402" alt="Step 2d" src="https://github.com/user-attachments/assets/c7a8852e-036a-41c1-ab3a-c5442e06b2a9" /> 
 
 </p>
 <p>
   
 - Next, go back up and click on the “Networking” tab.
+   
+</p>
+<br />
+<p>
+<img width="548" height="402" alt="Step 2e" src="https://github.com/user-attachments/assets/278ba11d-16f4-4902-aa64-c79d17cd1fe0" />
+
+
+</p>
+<p>
+
 - On the next page:
   - Create a new name for the “Virtual network” box.
   - You will need that same virtual network for the Linux Virtual machine.
   - Everything else is set by default.
-
-   
 </p>
 <br />
+<p>
+<img width="548" height="402" alt="Step 2e" src="https://github.com/user-attachments/assets/278ba11d-16f4-4902-aa64-c79d17cd1fe0" />
+
+
+</p>
+<p>
+
+- Go back to the “Basics” tab. 
+- Scroll to the bottom and select the Licensing checkbox to confirm.
+- Then select “Review + Create”.
+
+</p>
