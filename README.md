@@ -243,7 +243,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <br />
 <p>
-<img width="445" height="442" alt="Step 3c" src="https://github.com/user-attachments/assets/fd7afc21-a6a9-4762-99ae-68bcd3c7d917" /> <img width="88" height="442" alt="Arrow-Pointing-Right for Step 3c" src="https://github.com/user-attachments/assets/4818d701-1d71-4125-ad02-8b2d8f4ad061" /> <img width="439" height="442" alt="Step 3c1" src="https://github.com/user-attachments/assets/e1d77209-a445-4591-a371-0794087ed0db" />
+<img width="391" height="449" alt="Step 3c" src="https://github.com/user-attachments/assets/656b64bf-925a-4dde-adf4-c4d19978e599" /> <img width="88" height="442" alt="Arrow-Pointing-Right for Step 3c" src="https://github.com/user-attachments/assets/4818d701-1d71-4125-ad02-8b2d8f4ad061" /> <img width="390" height="449" alt="Step 3c1" src="https://github.com/user-attachments/assets/28ae40d3-7606-4618-95a5-b7196ce15015" />
 
 
 
