@@ -254,7 +254,7 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <p>
   
 - Just like Step 2, deployment will take a couple of minutes, so be patient.
-- Once completed you can click on “Go to resource” 
+- Once completed you can click on “Go to resource”. 
 
   
 </p>
