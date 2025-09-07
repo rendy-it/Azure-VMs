@@ -197,5 +197,23 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
   
 </p>
 <br />
+<h2> << Step 3: Create a Linux Virtual Machine within Azure >> </h2>
+
+<p>
+<img width="643" height="595" alt="Step 3" src="https://github.com/user-attachments/assets/887a00b4-561a-4e1c-a6e4-ed3434c42aa8" />
+
+</p>
+<p>
+  
+- Repeat the same step process as you did in Step 2:
+  - Select the same resource group as the Windows VM.
+  - Give the VM a name.
+  - Select a Zone.
+  - Select “Ubuntu Server 24.04 LTS – x64 Gen2”.
+
+
+
+</p>
+<br />
 
 
