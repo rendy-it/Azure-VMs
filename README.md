@@ -169,20 +169,14 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 </p>
 <br />
 <p>
-<img width="394" height="357" alt="Step 2h" src="https://github.com/user-attachments/assets/c603d0c8-8b4f-433c-a8c3-b194cc23b401" /> 
-</p>
-<p>
-  
-- Deployment will take a couple of minutes to complete, so be patient.
-  
-</p>
-<br />
-<p>
-<img width="357" height="445" alt="Step 2i" src="https://github.com/user-attachments/assets/9c83be4a-7794-4e91-866f-5ac5eff89e82" />
+<img width="349" height="370" alt="Step 2h" src="https://github.com/user-attachments/assets/aff3ecd9-2639-4a03-918d-b86275aa8944" /> <img width="88" height="370" alt="Arrow-Pointing-Right for Step 2hi" src="https://github.com/user-attachments/assets/a8f85bc1-ca58-4448-8c42-273222e09343" /> <img width="344" height="370" alt="Step 2i" src="https://github.com/user-attachments/assets/23d6a757-ebb3-45a1-83d8-914cab48ab51" />
+
+
 
 </p>
 <p>
   
+- Deployment will take a couple of minutes to complete, so be patient.
 - Once completed you can click on “Go to resource”. 
   
 </p>
@@ -244,8 +238,6 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 <br />
 <p><img width="309" height="450" alt="Step 3c" src="https://github.com/user-attachments/assets/d45fc70e-8462-4f28-9b27-90c141e54950" /> <img width="88" height="442" alt="Arrow-Pointing-Right for Step 3c" src="https://github.com/user-attachments/assets/4818d701-1d71-4125-ad02-8b2d8f4ad061" /> <img width="315" height="450" alt="Step 3c1" src="https://github.com/user-attachments/assets/f0a912da-d814-4187-adc9-09db46f5e08c" />
 
-
-
 </p>
 <p>
   
@@ -253,9 +245,18 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
   - Double Check to make sure everything is to your liking.
   - Then select “Create”.
 
-
-
 </p>
 <br />
+<p>
+<img width="357" height="445" alt="Step 2i" src="https://github.com/user-attachments/assets/9c83be4a-7794-4e91-866f-5ac5eff89e82" />
 
+</p>
+<p>
+  
+- Just like Step 2, deployment will take a couple of minutes, so be patient.
+- Once completed you can click on “Go to resource” 
+
+  
+</p>
+<br />
 
