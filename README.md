@@ -13,8 +13,8 @@ This tutorial demonstrates the methods of setting up a Windows and Linux Virtual
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro </b> (21H2)
-- Linux Ubuntu
+- Windows 10 Pro (21H2)
+- Linux Ubuntu Server (24.04)
 
 <h2>Configuration Steps</h2>
 
